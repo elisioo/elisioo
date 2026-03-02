@@ -125,4 +125,4 @@ A Blazor-based financial module with complete invoice handling and structured ba
 ---
 
 ## ⭐ Personal Note
-I believe that it is only **hard at first**, but the more you execute, the finer it will be.
+Vibe coder 

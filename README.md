@@ -8,16 +8,10 @@
 
 ## 🚀 About Me
 
-I am an ordinary IT student with interest in **software development, web applications, mobile development and system design**. I enjoy building practical systems, organizing data efficiently, random system and continuously improving my technical skills through hands-on projects.
-
-I am passionate about:
-- Web-based applications
-- Inventory and financial systems
-- Database design and data accuracy
-- Mobile Development
-- Game development (Soon)
-- Writing clean and maintainable code
-
+           へ            ╱| 
+     ૮  -   ՛ )  ♡   (`   -  7.   
+       /   ⁻  ៸|         |、⁻〵
+ 乀 (ˍ, ل ل         じしˍ,)ノ
 ---
 
 ## 🛠️ Tech Stack

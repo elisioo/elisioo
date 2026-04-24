@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Eli C. Soroño
+# Hi, I'm Eli
 
-🎓 **BS Information Technology Student**  
-💻 **Aspiring Software, Mobile & Web Developer**  
-📍 Philippines
+
 
 ---
 
-## 🚀 About Me
+## About Me
 
            へ            ╱| 
      ૮  -   ՛ )  ♡   (`   -  7.   
@@ -14,7 +12,7 @@
  乀 (ˍ, ل ل         じしˍ,)ノ
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 <p align="left">
@@ -78,28 +76,8 @@
 
 ---
 
-## 📂 Projects
 
-### 📦 Inventory Management System
-A web-based inventory system designed for small retail businesses (such as sari-sari stores), focused on simplicity and ease of use for non-technical users.
-
-**Key Features:**
-- Product and stock tracking  
-- Organized database structure  
-- User-friendly interface  
-
----
-
-### 💰 Financial & Invoice Management System
-A Blazor-based financial module with complete invoice handling and structured backend logic.
-
-**Highlights:**
-- Clean UI layout  
-- Maintainable and scalable design  
-
----
-
-## 📈 Currently Learning & Improving
+## Currently Learning & Improving
 
 - Full-stack web development  
 - Database normalization and optimization  
@@ -110,13 +88,12 @@ A Blazor-based financial module with complete invoice handling and structured ba
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/elisioo 
 - Email: e.sorono.544027@umindanao.edu.ph
--        sronoile@gmail.com
-
+  
 ---
 
 ## ⭐ Personal Note
-Vibe coder 
+Vibe Coder

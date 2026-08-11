@@ -84,7 +84,6 @@
 - Real-world system design practices
 - Full-stack mobile development
 - Software development
-- Planning to learn React and Vue.js soon
 
 ---
 

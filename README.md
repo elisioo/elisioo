@@ -85,7 +85,6 @@ I am a developer and virtual assistant who bridges the gap between software deve
 
 - **GitHub:** [github.com/elisioo](https://github.com/elisioo)
 - **Email:** [sronoile@gmail.com](mailto:sronoile@gmail.com) | [e.sorono.544027@umindanao.edu.ph](mailto:e.sorono.544027@umindanao.edu.ph)
-- **LinkedIn:** [Your LinkedIn Profile URL]
-
+- **LinkedIn:** 
 ---
 *“Building practical tech, automating workflows, and delivering quality code.”*

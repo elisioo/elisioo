@@ -1,5 +1,5 @@
 # Hi, I'm Eli 👋
-**IT Student | Software & Web Developer | Tech-Driven Virtual Assistant**
+**IT | Software & Web Developer | Tech-Driven Virtual Assistant**
 
 📍 Davao City, Philippines  
 🎓 BS in Information Technology — University of Mindanao (Expected 2027)

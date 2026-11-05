@@ -1,98 +1,86 @@
-# Hi, I'm Eli
+# Hi, I'm Eli 👋
+**IT Student | Software & Web Developer | Tech-Driven Virtual Assistant**
 
-
+📍 Davao City, Philippines  
+🎓 BS in Information Technology — University of Mindanao (Expected 2027)
 
 ---
 
-## About Me
+## 🚀 About Me
 
-           へ            ╱| 
-     ૮  -   ՛ )  ♡   (`   -  7.   
-       /   ⁻  ៸|         |、⁻〵
-       
+I am a developer and virtual assistant who bridges the gap between software development, data management, and operational support. With a background in customer operations, healthcare support, and full-stack development, I build custom tools, web applications, and workflow automations to solve real-world business problems.
+
+* **Development Focus:** Full-stack web and mobile development (.NET / Blazor, React, Flutter, Node.js).
+* **Technical Support & Admin:** Data reporting, CRM management, system administration, and workflow optimization.
+* **Problem Solver:** Driven by clean architecture, efficient database design, and intuitive user experiences.
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Capabilities
 
 ### Languages & Frameworks
 <p align="left">
-  <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- Blazor -->
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- JavaScript -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin-right:12px;"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-
-  <!-- Flutter -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- Java -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin-right:12px;"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="margin-right:12px;"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="margin-right:12px;"/>
+  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:12px;"/>
   </a>
-
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
 </p>
 
-
-
-### Tools & Platforms
-- Git & GitHub  
-- Visual Studio / VS Code  
-- Google Sheets (Data Entry & Organization)
+### Databases & Backend Tools
+* **Databases:** PostgreSQL, MySQL, SQL Server
+* **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Figma, Canva
+* **Productivity & Data:** Advanced Google Sheets, Excel reporting, CRM platforms (Zendesk, Maestro CRM)
 
 ---
 
+## 📌 Featured Projects
 
-## Currently Learning & Improving
-
-- Full-stack web development  
-- Database normalization and optimization  
-- Real-world system design practices
-- Full-stack mobile development
-- Software development
+- **Marfin CRM:** Cross-platform CRM covering marketing, sales pipelines, and financial invoicing built with **.NET MAUI Blazor Hybrid**.
+- **Proqrli:** Role-based procurement management app for buyers, vendors, and admins using **ASP.NET Core & React**.
+- **Health Predict:** ML-backed diabetes risk prediction and patient management platform built using **Node.js, React, MySQL, & Python**.
+- **KOMIKAP & Wakeupmission:** Clean, user-centric mobile application prototypes created with **Flutter & Firebase**.
 
 ---
 
-## Connect With Me
+## 📚 Currently Focusing On
 
-- GitHub: https://github.com/elisioo 
-- Email: e.sorono.544027@umindanao.edu.ph
-  
+- Designing full-stack web and mobile solutions with scalable system architectures.
+- Normalizing and optimizing relational databases (PostgreSQL/MySQL) for high-performance querying.
+- Integrating AI assistants and modern tech stacks into everyday business workflows.
+
 ---
 
-## ⭐ Personal Note
-Vibe Coder
+## 📬 Let's Connect
+
+- **GitHub:** [github.com/elisioo](https://github.com/elisioo)
+- **Email:** [sronoile@gmail.com](mailto:sronoile@gmail.com) | [e.sorono.544027@umindanao.edu.ph](mailto:e.sorono.544027@umindanao.edu.ph)
+- **LinkedIn:** [Your LinkedIn Profile URL]
+
+---
+*“Building practical tech, automating workflows, and delivering quality code.”*

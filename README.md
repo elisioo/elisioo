@@ -56,18 +56,6 @@ I also bring experience in U.S. customer support, CRM operations, reporting, and
 
 </div>
 
-## ✨ How I Use AI in Development
-
-AI helps me move faster, but I still review the code and verify the result.
-
-```text
-Understand requirements → Plan → Build → Test → Debug → Deploy → Improve
-                              ↑
-                   Codex · Cursor · Claude · ChatGPT
-```
-
-My workflow includes breaking requirements into clear tasks, reviewing generated code, checking edge cases, verifying UI behaviour, and using version control to keep changes traceable.
-
 ## 🚀 Selected Work
 
 ### 🌐 Live Web Projects

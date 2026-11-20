@@ -33,9 +33,10 @@ I also bring experience in U.S. customer support, CRM operations, reporting, and
 
 | Area | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Blazor |
+| **Framework** | Next.js, Laravel, Flutter, .Net |
+| **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3, Blazor, Tailwind, Bootstrap |
 | **Backend** | Node.js, Express, Laravel / PHP, ASP.NET Core, C#, REST APIs |
-| **Mobile** | Flutter, Dart, Firebase, .NET MAUI Blazor Hybrid |
+| **Mobile** |Flutter, Dart, Firebase, .NET MAUI Blazor Hybrid |
 | **Databases** | PostgreSQL, MySQL, Microsoft SQL Server (SSMS), Firebase |
 | **AI & Coding** | OpenAI Codex, Cursor AI, Claude, ChatGPT, Python ML integrations |
 | **Automation & CRM** | n8n, webhooks |

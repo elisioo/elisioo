@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **full-stack development experience**, combining frontend engineering, backend APIs, databases, and AI-assisted workflows. I enjoy building responsive interfaces, designing reliable data flows, and shipping projects from concept to deployment.
+I'm a **full-stack developer**, combining frontend engineering, backend APIs, databases, and AI-assisted workflows. I enjoy building responsive interfaces, designing reliable data flows, and shipping projects from concept to deployment.
 
 I also bring experience in U.S. customer support, CRM operations, reporting, and workflow automation. That helps me approach software with both the technical implementation and the end user's needs in mind.
 

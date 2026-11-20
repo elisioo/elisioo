@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI-Assisted Development · Automation
 
-📍 Davao City, Philippines &nbsp;•&nbsp; 🎓 BS Information Technology, University of Mindanao (Expected 2027)
+📍 Davao City, Philippines &nbsp;•&nbsp; 🎓 BS Information Technology, University of Mindanao
 
 <img src="./assets/happy-programmer.gif" alt="Animated pixel-art programmer working at a laptop" width="285" />
 

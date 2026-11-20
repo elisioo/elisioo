@@ -75,7 +75,7 @@ My workflow includes breaking requirements into clear tasks, reviewing generated
 | :--- | :--- | :--- |
 | **EMarketplace** | Product discovery, detailed views, saved listings, and side-by-side product comparisons | [View site](https://emarketplace-eli.vercel.app/) |
 | **EmailShield** | An email-security themed experience with a responsive landing page and scanner interface | [View site](https://emailshield-eli.vercel.app/) |
-| **Velora Portfolio** | Responsive visual design and portfolio presentation | [View site](https://velora-portfolio-eta.vercel.app/) |
+
 
 ### 🧩 Application & Systems Projects
 

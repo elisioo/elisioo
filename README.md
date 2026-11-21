@@ -2,7 +2,7 @@
 
 # Hi, I'm Eli 👋
 
-### Full-Stack Developer · AI-Assisted Development · Automation
+### Full-Stack Developer 
 
 📍 Davao City, Philippines &nbsp;•&nbsp; 🎓 BS Information Technology, University of Mindanao
 

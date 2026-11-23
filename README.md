@@ -56,15 +56,6 @@ I also bring experience in U.S. customer support, CRM operations, reporting, and
 
 </div>
 
-## 🚀 Selected Work
-
-### 🌐 Live Web Projects
-
-| Project | What it demonstrates | Demo |
-| :--- | :--- | :--- |
-| **EMarketplace** | Product discovery, detailed views, saved listings, and side-by-side product comparisons | [View site](https://emarketplace-eli.vercel.app/) |
-| **EmailShield** | An email-security themed experience with a responsive landing page and scanner interface | [View site](https://emailshield-eli.vercel.app/) |
-
 
 ### 🧩 Application & Systems Projects
 
